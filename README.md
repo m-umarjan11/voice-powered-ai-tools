@@ -1,8 +1,8 @@
-# 🎙️ Voice AI Assistant
+#  Voice AI Assistant
 
 A voice-enabled conversational AI assistant built using **Python**, **ElevenLabs Conversational AI**, **OpenAI's DALL·E 3**, **LangChain**, and **DuckDuckGoSearchRun**. This assistant can perform web searches, generate images from text prompts, create HTML/text files, and interact in real-time via voice.
 
-## 🔧 Features
+##  Features
 
 -  **Voice Interaction** – Natural conversations using ElevenLabs' audio interface
 -  **Web Search** – Integrated DuckDuckGo search for real-time info
@@ -10,7 +10,7 @@ A voice-enabled conversational AI assistant built using **Python**, **ElevenLabs
 -  **Image Generation** – Use DALL·E 3 to generate images from text prompts
 -  **Modular Tools** – Easily extendable with additional tools via LangChain-compatible interface
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python
 - [ElevenLabs Conversational AI](https://www.elevenlabs.io/)
@@ -19,5 +19,4 @@ A voice-enabled conversational AI assistant built using **Python**, **ElevenLabs
 - [DuckDuckGoSearchRun](https://python.langchain.com/docs/integrations/tools/ddg)
 - `dotenv`, `Pillow (PIL)`, `requests`
 
-##  Project Structure
 
