@@ -1,0 +1,5 @@
+Information about cars from web search:
+- Latest car models and their features
+- Popular car brands and designs
+- Modern automotive technology trends
+Note: Due to text format limitations, actual images cannot be stored in a txt file. Perhaps Sir would prefer an HTML file for viewing images?

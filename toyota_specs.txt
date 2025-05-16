@@ -1,0 +1,15 @@
+Toyota Vehicle Specifications
+
+Hilux:
+- Body Type: Pickup Truck
+- Engine Options: two point four to two point eight liter diesel
+- Transmission: six speed manual or automatic
+- Drive System: Four wheel drive capability
+- Key Features: Robust build, high payload capacity, off road capability
+
+Fortuner:
+- Body Type: SUV
+- Engine Options: two point four to two point eight liter diesel
+- Transmission: six speed manual or automatic
+- Drive System: Four wheel drive available
+- Key Features: Seven seater, premium interior, advanced safety features
